@@ -1,6 +1,6 @@
 # 🦋 Frieren AI Ecosystem
 
-> *"It's the small, everyday efforts that build a legendary pipeline."*
+> *"I just want to understand humans a little better."*
 
 An open-source, ultra-low latency framework designed to create highly interactive AI companions with real-time voice and 3D visual synchronization.
 
