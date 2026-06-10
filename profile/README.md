@@ -8,7 +8,7 @@ An open-source, ultra-low latency framework designed to create highly interactiv
 
 * **[Fern](https://github.com/Frierenclaw/fern) (The Pipeline):** Strict and reliable `pipecat-ai` orchestrator. Handles real-time audio streams, VAD, and schedules animation frames.
 * **[Heiter](https://github.com/Frierenclaw/heiter) (The Brain):** Wise memory keeper. A high-throughput FastAPI inference server that manages LLM generation and context streaming.
-* **[Frieren Desktop](https://github.com/Frierenclaw/frieren-desktop)) (The Face):** A window into another world. Real-time Tauri desktop client that renders a 3D VRM avatar, streams microphone audio to Fern via LiveKit WebRTC, and animates the avatar in sync with the AI's voice using live viseme data.
+* **[Frieren Desktop](https://github.com/Frierenclaw/frieren-desktop) (The Face):** A window into another world. Real-time Tauri desktop client that renders a 3D VRM avatar, streams microphone audio to Fern via LiveKit WebRTC, and animates the avatar in sync with the AI's voice using live viseme data.
 
 ## 🛠 Magic Spells (Tech Stack)
 `Python 3.14` • `Pipecat-ai` • `FastAPI` • `Tauri` • `Rust` • `Three.js` • `LiveKIT`
